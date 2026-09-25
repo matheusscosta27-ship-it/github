@@ -1,0 +1,18 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "caderno",
+      "preço": 15.9,
+      "disponível": true
+    },
+    {
+      "id": 2,
+      "nome": "caneta",
+      "preço": 3.5,
+      "disponível": false
+    }
+  ]
+}
+
+ 	
